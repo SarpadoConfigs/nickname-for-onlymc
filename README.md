@@ -1,4 +1,4 @@
-This is a plugin made by: Garotinho for OnlyMC
+This is a plugin made by: Sarpado for OnlyMC
 
 Open Source Code (Obviosusly)
 
